@@ -1,0 +1,19 @@
+{
+  "name": "test/test-plugin",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Test",
+      "email": "test@test.com"
+    }
+  ],
+  "config": {
+    "platform": {
+      "php": "8.0"
+    }
+  },
+  "require": {},
+  "repositories": [],
+  "scripts": {},
+  "extra": {}
+}
